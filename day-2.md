@@ -8,7 +8,7 @@ It’s also an accessibility issue. Using text readers for folks.
 
 - Semantics are intentional ways of using code. Not just making code look nice, but translate nicely when broken down into structure. This is why it's important.
 - There are 6 levels of headings in HTML! Though it's not recommended you use all six varying degrees. You can use them spread out among pages, but try not to use more than three in a page.
-- Thesae are some uses for subscript and superscript. Slowly realizing my last entry for notes was formatted pretty bad. Was not intentional about my code and used way too much subscript to try and utilize more stylings lol.
+- Footnotes & formulas! are some uses for subscript and superscript. Slowly realizing my last entry for notes was formatted pretty bad. Was not intentional about my code and used way too much subscript to try and utilize more stylings lol.
     - <sub> subscript, used for things like footnotes
 
     - <sup> superscript, used for things like scientific formulas
@@ -54,6 +54,11 @@ Ex. Say you’re typing a paragraph and want to reference this cool article on E
     - Inline styles; I think it’s like “color: blue”
 - Which components are considered properties?
     - Human readable identifiers that indicate with style features you want to modify i.e. font, width, color.
+
+### Things I'd like to know more about
+- Feeling pretty solid with html, but am a little shaky about CSS. Spending more time this week reviewing the above questions and terms.
+- I never thought I was very good at programming in Python, but learning fundamentals of JS has been unexpectedly helpful. Seeing lots of similarities between the two languages. Excited to learn more.
+- Would also like to learn more about JS operators. Not super comfortable recognizing them yet.
 
 ### JAVASCRIPT BASICS “comments through events”
 
