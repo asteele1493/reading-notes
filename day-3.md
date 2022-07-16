@@ -2,7 +2,7 @@ Class 3 read
 
 ## Ordered list element
 
-- <ol> and <ul> representing list of items.
+- < ol > and < ul > representing list of items.
 Ordered lists have meaning/and order.
 
 - You can set lists in html to have specific types such as all lowercase, all uppercase, Roman numerals, or numbers.
