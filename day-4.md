@@ -5,9 +5,9 @@
 - Links are made using anchor tags and href attributes. 
 
 Ex. Syntax
-` <p> My favorite website is
+ <p> My favorite website is
 <a href=“https://www.codefellows.org/“>Code Fellows</a>.
-</p> `
+</p> 
 
 - Links are wrapped up inside of `<a>` tags. The href contains the URL of what you’re linking to.
 
@@ -45,10 +45,10 @@ A URL defines exactly where in the World Wide Web a webpage lives. The URL utili
 - Functions v. Methods
     - Are methods a part of a function?
 - Syntax:
-`function myFunction() 
+function myFunction() 
     alert(‘hello’); 
 }
-myFunction();`
+myFunction();
 
 - Some functions require parameters to be called.
     - Parameters are also called arguments! or Properties. Or Attributes.
