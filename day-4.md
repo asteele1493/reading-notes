@@ -25,6 +25,7 @@ A URL defines exactly where in the World Wide Web a webpage lives. The URL utili
 - I really want to learn more about nav bars/menus. I think it’d be a cool way to add functionality to my page.
 - Is normal flow related in any way to our reset.css page in our project directory?
 - What exactly is object oriented programming? Are they related to methods at all?
+- Absolute v. fixed positioning. 
 
 # Normal flow in CSS
 
@@ -33,6 +34,7 @@ A URL defines exactly where in the World Wide Web a webpage lives. The URL utili
     - Block level: “the block level’s content fills the available inline space of the parent element containing it and grows along the block dimension.”
     - Inline level: “The size of the inline element is the size of their content.Cannot set width or height.”
     - [MDN page on normal flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+- Absolute positioning and fixed positioning are very similar. Having trouble understanding why.
 
 # Functions- Reusable blocks of code
 
