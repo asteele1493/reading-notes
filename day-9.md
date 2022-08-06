@@ -1,6 +1,6 @@
-# Forms & Events 
+# Forms & Events
 
-## [Your First Web Form] (https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+## [Your First Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 
 - *Web Forms* are a point of interaction between a user and a web site or applicaton. 
 - These forms can be made up of one or more form controls (or widgets).
@@ -15,7 +15,7 @@
  - *Note* You cannot nest a form inside of another form.
 
 
-### [How to structure a web form] (https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+### [How to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 
 - List 5 form elements and explain their importance.
 
