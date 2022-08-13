@@ -2,7 +2,6 @@
 
 ## [Video & Audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
-- Explain how the ability to use video and audio on the web has evolved since the early 2000s.
 - Describe the use of the src and controls attributes in the <video> element.
   - Very similar to `<img>` tags, `<video>` elements require a `src` component. Something that sets them apart are needing to also include controls. These controls enable a user to access video and audio playback. This is an accessibility issue for folks who experience epilepsy. `<video>` elements also include a paragraph, which I thought was a little funny. It makes sense though-- known as "fallback content", this text is viewed if the browser doesn't support the video file. This allows us to provide a fallback for older browsers.
 - Something to note-- mobile browsers can sometimes support different file formats.
