@@ -1,8 +1,8 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-***These are my notes for Code Fellows code 201.***
+***These are my notes for Code Fellows, Javascript track.***
 
-#### Daily Reading Assignments
+## Code 201 - Foundations of Software Development
 
 - [Day 1 reading](day-1.md)
 - [Day 2 reading](day-2.md)
@@ -20,4 +20,4 @@
 - [Day 14 reading](day-14.md)
 - [Day 15 reading](day-15.md)
 
-
+## Code 301 - Intermediate Software Development
