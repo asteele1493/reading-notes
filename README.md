@@ -21,3 +21,5 @@
 - [Day 15 reading](day-15.md)
 
 ## Code 301 - Intermediate Software Development
+
+- [Day 1 reading](reading-1.md)
