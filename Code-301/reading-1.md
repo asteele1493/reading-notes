@@ -48,6 +48,10 @@
 
   - One directional? As in the data flows in one way, from parent to child?
 
+## Things I want to know more about
+
+- Honestly, my mind is kind of blown with being introduced to componenents, and I'm just stoked to learn more.
+
 ### To Bookmark and Review
 
 - [Tutorial: 'Passing data through props'](https://reactjs.org/tutorial/tutorial.html)
