@@ -29,7 +29,7 @@
 **What is the big difference between props and state?**
 
 - State is something inside of a component. Props you pass into a component while state is handled inside of the component. Props is external, state is internal, in relation to components.
-- You can also update state inside of the component. When you change the state in a component, it will rerender that section of your application. 
+- You can also update state inside of the component. When you change the state in a component, it will rerender that section of your application.
 
 **When do we re-render our application?**
 
@@ -41,15 +41,20 @@
 
 - Input of forms, counter applications...
 
-
 ## Things I want to know more about
 
 ### To bookmark & review
 
 [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
 [Handling Events](https://reactjs.org/docs/handling-events.html)
+
 [React tutorial & devTools](https://reactjs.org/tutorial/tutorial.html)
+
 [React Bootstrap documentation](https://react-bootstrap.github.io/)
+
 [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+
 [Bootstrap shuffle](https://bootstrapshuffle.com/classes)
+
 [Netlify](https://www.netlify.com/)
