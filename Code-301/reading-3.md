@@ -22,7 +22,7 @@
 
 **What is the spread operator?**
 
-- The spread operator is a way to expand an iterable object array into the list of arguments. They syntax is composed of ellipses `(...)`. 
+- The spread operator is a way to expand an iterable object array into the list of arguments. They syntax is composed of ellipses `(...)`.
 
 **List 4 things that the spread operator can do.**
 
