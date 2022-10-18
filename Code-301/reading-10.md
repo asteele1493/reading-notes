@@ -16,7 +16,7 @@
 
 **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
-![Call Stack Error](./call-stack-error.png)
+[Call Stack Error](./images/call-stack-error.png)
 
 - If I were using the example in the article (as listed above), I would invoke the first function, followed by the second, and then the third.
 
