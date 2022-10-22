@@ -84,3 +84,5 @@
 [IBM database documentation](https://www.ibm.com/cloud/learn/database-schema)
 
 [NOSQL Explained](https://www.mongodb.com/nosql-explained)
+
+[Google Cloud documentation](https://cloud.google.com/learn/what-is-a-relational-database#:~:text=A%20relational%20database%20(RDB)%20is,relationship%20between%20various%20data%20points.)
