@@ -23,5 +23,6 @@
 ## Code 301 - Intermediate Software Development
 
 - [Day 1 reading](reading-1.md)
+- [Day 2 reading](reading-2.md)
 
 ## Code 401 - Advanced Software Development
