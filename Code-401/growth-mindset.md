@@ -30,10 +30,3 @@
 
 - We should make sure our ideas of success are truly what we want/our own.
 
-[Assess Emotional Intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html)
-
-- My score for this assessment remained about the same. I know I am a very emotional person and tend to observe and absorb emotions from others easily. I scored lowest in the relationship management area and I feel like it's mostly due to my taking things too personally. I really enjoy working with others and find that I can overthink social situations. Learning to unlearn this more and more with each course.
-
-[Assess Biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.html)
-
-- My score indicated a high self awareness. I hold many identities that inform the way I perceive and carry myself in spaces. My lowest scoring area remained the effective courage portion. It can be difficult to confront bias when you are concerned for personal/group safety. I think about this a lot.
