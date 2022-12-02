@@ -53,3 +53,5 @@
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
 
 - Break the code down into smaller, more digestable sets and identify the repeating pattern. Decide if there is a more reasonable algorithm to use instead.
+
+- Base case aka a condition to stop the recursion.
