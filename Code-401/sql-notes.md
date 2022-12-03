@@ -28,4 +28,4 @@
 
 **Lessons 1-6 & 13-18**
 
-
+<img src = "SQL-subs/SQL-1.png">
