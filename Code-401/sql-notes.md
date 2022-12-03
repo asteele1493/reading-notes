@@ -29,3 +29,15 @@
 **Lessons 1-6 & 13-18**
 
 <img src = "SQL-subs/SQL-1.png">
+<img src = "SQL-subs/SQL-2.png">
+<img src = "SQL-subs/SQL-3.png">
+<img src = "SQL-subs/SQL-4.png">
+<img src = "SQL-subs/SQL-5.png">
+<img src = "SQL-subs/SQL-6.png">
+<img src = "SQL-subs/SQL-13.png">
+<img src = "SQL-subs/SQL-14.png">
+<img src = "SQL-subs/SQL-15.png">
+<img src = "SQL-subs/SQL-16.png">
+<img src = "SQL-subs/SQL-17.png">
+<img src = "SQL-subs/SQL-18.png">
+
