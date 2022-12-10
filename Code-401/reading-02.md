@@ -68,7 +68,7 @@
 
 **Explain how GitHub fits into this process assuming the listener comes from a non-technical background**
 
-- CI/CD in the most simplest terms refers to automation. Making our lives easier in regards to developing software. Github offers us tools that make this process easier like version control, 'builds' or mock ups of files that are accompanied by checks, and the ability to review modifications and code quality. 
+- CI/CD in the most simplest terms refers to automation. Making our lives easier in regards to developing software. Github offers us tools that make this process easier like version control, 'builds' or mock ups of files that are accompanied by checks, and the ability to review modifications and code quality.
 
 [Supplement: On CI/CD](https://resources.github.com/ci-cd/)
 
