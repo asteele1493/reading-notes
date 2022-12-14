@@ -41,3 +41,4 @@
 **What do we use route middleware for?**
 
 - "Route middleware is a way to do something before a request is processed." I've previously heard middleware defined as 'software glue'. It's software that helps us do things that aren't necessarily related to requests within the application. I think.
+
