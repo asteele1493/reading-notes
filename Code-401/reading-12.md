@@ -52,7 +52,7 @@ What are a couple of key takeaways from this video?
 
 Translate the gist of this video to a non-technical friend
 
--
+- TCP protocols are ways in which a lot of the applications we use on a daily basis transmit data. In order for the protocol to be initialized successfully, a "handshake" of sorts is used in making sure the data is secure and transmitted through the bidirectional channels involved.
 
 ## Bookmark & Review
 
