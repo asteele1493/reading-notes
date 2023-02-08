@@ -40,6 +40,11 @@
 
 ## Code 401 - Advanced Software Development
 
+- [Notes on SQL](./Code-401/sql-notes.md)
+- [Notes on Linked Lists](./Code-401/notes-linked-lists.md)
+- [Notes on the growth mindset](./Code-401/growth-mindset.md)
+- [Notes on software engineering](./Code-401/engineering-reads.md)
+- [Notes on data structures and algorithms](./Code-401/dsa-prep.md)
 - [Day 1 reading](./Code-401/reading-01.md)
 - [Day 2 reading](./Code-401/reading-02.md)
 - [Day 3 reading](./Code-401/reading-03.md)
@@ -49,7 +54,6 @@
 - [Day 7 reading](./Code-401/reading-07.md)
 - [Day 8 reading](./Code-401/reading-08.md)
 - [Day 9 reading](./Code-401/reading-09.md)
-- [Day 10 reading](./Code-401/reading-10.md)
 - [Day 11 reading](./Code-401/reading-11.md)
 - [Day 12 reading](./Code-401/reading-12.md)
 - [Day 13 reading](./Code-401/reading-13.md)
