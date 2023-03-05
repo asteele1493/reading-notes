@@ -24,7 +24,7 @@
 
 **Name two rules imposed by React Hook usage.**
 
-- You can only use hooks at the top level; not inside loops, conditions, or nested functions.
+- You can only use hooks at the top level; not inside loops, conditions, or nested functions. Can't do hooks conditionally.
 - You can only cll hooks from React function components, not from regular Javascript functions
 
 **How would you identify a custom Hook and why might you create one?**
