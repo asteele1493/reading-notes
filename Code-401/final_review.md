@@ -1,3 +1,3 @@
 # Resume
 
-![Final resume](/SQL-subs/Resume_final.png)
+![Final resume](./pics/Resume_final.png)
