@@ -1,4 +1,4 @@
-# Python Tutorial
+# Python Tutorial, Getting Started
 
 Using [kaggle](https://www.kaggle.com/code/colinmorris/hello-python), I am hoping to delve more into learning Python. These are my notes based off of the tutorial.
 
